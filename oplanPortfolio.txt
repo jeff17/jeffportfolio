@@ -1,0 +1,59 @@
+#OPLANPORTFOLIO
+
+background- 100vh - wave effect
+about -
+services-
+contact info=
+footer- social media accts. alrights reserved &copy
+
+-sticky navigation [nav] via bootstrap
+loading- image
+-animatiun-
+-toggle when decreasing the width
+
+font= Nunito sans
+color theme - white and maroon
+
+“It is never too late to be what you might have been” - George Eliot
+
+Description :
+
+He is a 22-year-old male from the Philippines. An aspiring web designer and web content maker. He has experience working in customer service for 1 year before he decided to transition in a Web-based design making. He is a self-taught UI/UX Designer. He is a dedicated and motivated person to pursue a career whose aim is to inspire others. He believes that this career path is not too late for him. He is driven to accomplish and help his future clients to grow in business.
+
+#design
+Creating a design with the latest and newest trend using Figma, Adobe, and Illustrator. On a side making/designing logo is one.
+
+#develop
+Making the design into life with UX languages such as HTML, CSS/BOOTSTRAP, and JS.
+
+#inspire
+Most importantly is grows professionally and use this platform to be inspired and inspire others too.
+
+
+default for titles
+font-size: 30pt;
+
+suptitle
+font-size: 1rem;
+
+container
+line-height: 21px
+
+text 
+font-size: 15pt;
+
+<i class='fab fa-figma'></i> 
+
+<i class="fab fa-js"></i> 
+<i class="fab fa-bootstrap"></i>
+fa fa-html5
+<i class="fab fa-sass"></i>
+<i class="fab fa-css3"></i>
+
+<i class="fab fa-adobe"></i>
+font-size: 20px;
+
+$desktop: 1240px;
+$laptop: 1024px;
+$tablet: 768px;
+$phone: 480px;
